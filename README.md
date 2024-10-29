@@ -36,3 +36,5 @@
   
  
 </div>
+
+[![An image of @chiranthanhy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chiranthanhy)](https://holopin.io/@chiranthanhy)
