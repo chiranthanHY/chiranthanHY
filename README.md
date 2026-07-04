@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/CGPA-8.90%2F10-success?style=flat" alt="cgpa" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
-</p>
+
 
 ---
 
@@ -18,7 +16,6 @@
 - 🛠️ Full-stack developer building production-style apps with Next.js, FastAPI, Node.js, PostgreSQL, and Docker
 - 🤖 Also building **GenAI SaaS platforms**, **multi-agent LLM systems**, and **federated learning** pipelines
 - 🌍 Open-source contributor — GirlScript Summer of Code & Hacktoberfest
-- 🌱 Currently learning **DevOps**
 - 👨‍💻 All my projects: [github.com/chiranthanHY](https://github.com/chiranthanHY)
 - 📫 Reach me at **chiranthanhy@gmail.com**
 
@@ -71,28 +68,8 @@ CNN-based cancer detection from CT/MRI scans trained across simulated hospital n
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranthanhy&show_icons=true&locale=en&theme=default" alt="chiranthanhy" height="165"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranthanhy&show_icons=true&locale=en&layout=compact" alt="chiranthanhy" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranthanhy" alt="chiranthanhy" />
-</p>
-
 [![An image of @chiranthanhy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chiranthanhy)](https://holopin.io/@chiranthanhy)
 
 ---
 
-### 🤝 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/chiranthan-h-y-62503a216" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:chiranthanhy@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Email" height="30" width="40" />
-</a>
-</p>
